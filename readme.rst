@@ -3,7 +3,7 @@ Arduinna
 
 - Python 3
 - docutils, reStructuredText
-- metadata, Dublin Core, open Archive Initiative
+- metadata, Dublin Core, Open Archive Initiative
 
 Who is Arduinna?
 ----------------
